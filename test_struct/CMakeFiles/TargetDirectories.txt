@@ -1,3 +1,0 @@
-/home/rpdzkj/code/test_struct/CMakeFiles/edit_cache.dir
-/home/rpdzkj/code/test_struct/CMakeFiles/rebuild_cache.dir
-/home/rpdzkj/code/test_struct/CMakeFiles/test.dir
