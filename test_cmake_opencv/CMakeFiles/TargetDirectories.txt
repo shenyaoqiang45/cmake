@@ -1,0 +1,3 @@
+/home/firefly/test_cmake_opencv/CMakeFiles/edit_cache.dir
+/home/firefly/test_cmake_opencv/CMakeFiles/rebuild_cache.dir
+/home/firefly/test_cmake_opencv/CMakeFiles/test.dir
